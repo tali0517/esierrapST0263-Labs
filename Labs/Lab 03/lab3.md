@@ -4,13 +4,10 @@
 
 Descarga el dataset de COVID-19 en Colombia:
 
-```bash
+```bash y subir dataset con HDFS
 # Descargar desde datos abiertos de Colombia
 wget https://www.datos.gov.co/api/views/gt2j-8ykr/rows.csv?accessType=DOWNLOAD -O Casos_positivos_de_COVID-19_en_Colombia.csv
-```
 
-Subir el Dataset a HDFS
-```
 hdfs dfs -put Casos_positivos_de_COVID-19_en_Colombia.csv /user/hadoop/datasets/covid19/
 ```
 
