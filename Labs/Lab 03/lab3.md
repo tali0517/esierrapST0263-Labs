@@ -55,7 +55,7 @@ df = spark.read.csv("hdfs:///user/hadoop/datasets/covid19/Casos_positivos_de_COV
 df_filtered = df.select("ID de caso", "Ciudad de ubicación", "Estado", "Edad").filter(df["Estado"] == "Activo")
 
 df_filtered.write.mode("overwrite").parquet("hdfs:///tmp/covid-data")
-df_filtered.write.mode("overwrite").parquet("s3://hortegag-datasets/covid-data")
+df_filtered.write.mode("overwrite").parquet("s3://esierrap/covid-data")
 ```
 
 Ejecuta el script en EMR:
