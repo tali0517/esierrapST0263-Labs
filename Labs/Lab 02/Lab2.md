@@ -1,4 +1,4 @@
-# Scripts/comandos para lab 3-2
+# Scripts lab 3-2 HIVE
 
 ### Usuarios
 ingresar como usuario de hadoop
