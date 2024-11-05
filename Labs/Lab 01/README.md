@@ -74,11 +74,11 @@ hdfs dfs -put /root/st0263-242/bigdata/datasets/gutenberg-small/*.txt /user/hado
 ### Copiar archivos a S3.
 
 ```
-hadoop fs -put /root/st0263-242/bigdata/datasets/ s3://esierrap-datasets/
+hadoop fs -put /root/st0263-242/bigdata/datasets/ s3://esierrap/
 ```
 
 ### Copiar archivos hacia el AWS S3 vía SSH.
 
 ```
-hadoop fs -put /root/st0263-242/bigdata/datasets/ s3://esierrap-datasets/
+hadoop fs -put /root/st0263-242/bigdata/datasets/ s3://esierrap/
 ```
