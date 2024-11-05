@@ -54,7 +54,7 @@ use esierrap;
 CREATE EXTERNAL TABLE HDI (id INT, country STRING, hdi FLOAT, lifeex INT, mysch INT, eysch INT, gni INT) 
 ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' 
 STORED AS TEXTFILE 
-LOCATION 's3://esierrap-datasets/onu/hdi/';
+LOCATION 's3://esierrap/onu/hdi/';
 ```
 
 ### Consultas y Cálculos sobre la tabla HDI
