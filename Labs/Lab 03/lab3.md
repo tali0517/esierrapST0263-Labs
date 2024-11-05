@@ -1,4 +1,4 @@
-# Scripts/comandos para lab 3-3
+# Scripts lab 3-3 Jupyter - Google Colab
 
 ## 1. Configuración y Carga de Datos
 
