@@ -1,4 +1,4 @@
-# Scripts/comandos para lab 3-1
+# Scripts lab 3-1 HDFS
 
 ### Conexión por SSH a instancia.
 
