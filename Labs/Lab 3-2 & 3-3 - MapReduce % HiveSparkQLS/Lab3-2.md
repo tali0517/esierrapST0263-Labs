@@ -1,4 +1,4 @@
-# Scripts Lab 3-2 MapReduce
+# Scripts Lab 3-2 & 3-3 MapReduce && HiveSparkSQL
 
 ### Usuarios
 ingresar como usuario de hadoop
