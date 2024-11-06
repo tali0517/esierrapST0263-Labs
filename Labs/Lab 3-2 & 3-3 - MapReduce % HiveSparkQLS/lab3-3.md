@@ -1,4 +1,4 @@
-# Scripts/comandos para lab 3-3
+# Scripts Lab 3-3 HiveSparkSQL
 
 ## 1. Configuración y Carga de Datos
 
