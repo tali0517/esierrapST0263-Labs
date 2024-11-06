@@ -1,4 +1,4 @@
-# Scripts/comandos para lab 3-2
+# Scripts Lab 3-2 MapReduce
 
 ### Usuarios
 ingresar como usuario de hadoop
